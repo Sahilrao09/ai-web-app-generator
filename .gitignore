@@ -1,0 +1,24 @@
+# Environment & Secrets
+.env
+k8s/.env
+*.env
+
+# Build Output
+target/
+**/target/
+*.class
+
+# macOS System Files
+.DS_Store
+**/.DS_Store
+
+# IDEs & Editors
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Logs
+*.log
